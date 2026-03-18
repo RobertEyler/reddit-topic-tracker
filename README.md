@@ -45,7 +45,7 @@ The tool uses Reddit's official API (OAuth2) to perform **read-only** requests a
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/reddit-topic-tracker.git
+git clone https://github.com/RobertEyler/reddit-topic-tracker.git
 cd reddit-topic-tracker
 pip install -r requirements.txt
 ```
