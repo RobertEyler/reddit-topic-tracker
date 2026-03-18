@@ -1,0 +1,47 @@
+# Environment variable files (contain sensitive information)
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output files
+output/
+*.csv
+*.json
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Distribution/packaging
+dist/
+build/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Log files
+*.log
